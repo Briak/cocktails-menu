@@ -1,4 +1,4 @@
-package com.briak.cocktailsmenu
+package com.briak.cocktailsmenu.presentation.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
